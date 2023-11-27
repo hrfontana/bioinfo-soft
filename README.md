@@ -34,7 +34,7 @@ Base de dados:
 - Betalactamase database http://bldb.eu/ 
 - Plasmid database https://ccb-microbe.cs.uni-saarland.de/plsdb 
 
-  Plataformas Online:
+Plataformas Online:
 - Patric https://www.patricbrc.org/
 - Enterobase https://enterobase.warwick.ac.uk/
 - BacWGSTdb http://bacdb.cn/BacWGSTdb/
