@@ -14,12 +14,13 @@ Anotação:
 - DFAST annotation https://dfast.ddbj.nig.ac.jp/
 - Prokka https://github.com/tseemann/prokka
 
-  Análises:
+Predição genes/Typing:
 - Abricate https://github.com/tseemann/abricate
 - PointFinder https://bitbucket.org/genomicepidemiology/pointfinder_db/src/master/
 - Kleborate https://github.com/katholt/Kleborate
+- mlst https://github.com/tseemann/mlst
 
-Filogenômica:
+Filogenômica e anotação de árvores:
 - Roary https://github.com/sanger-pathogens/Roary
 - SNP-sites https://github.com/sanger-pathogens/snp-sites
 - RAxML-NG https://github.com/amkozlov/raxml-ng
